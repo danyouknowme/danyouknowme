@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 - Thanathip Suwannakhot. I'm currently studying in Bachelor's degree of Software  Engineering at Kasetsart University 🧑🏼‍💻
 
@@ -10,7 +10,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
 </a>
 
-#### Learning 📚
+### Learning 📚
 ---
 
 <!--
