@@ -40,9 +40,10 @@
 [![forthebadge](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)]()
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 
----
+<p>&nbsp;</p>
 
 ### Contact 📱
+---
 <a href="https://www.facebook.com/dan.isreal.923/">
   <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
 </a>
