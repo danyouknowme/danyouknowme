@@ -4,10 +4,10 @@
 
 ---
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
 </a>
 
 #### Learning 📚
