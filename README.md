@@ -3,11 +3,14 @@
 - Thanathip Suwannakhot. I'm currently studying in Bachelor's degree of Software  Engineering at Kasetsart University 🧑🏼‍💻
 
 ---
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=radical)
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=radical">
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=radical)
+
 <!--
 **danyouknowme/danyouknowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
