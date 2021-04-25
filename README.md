@@ -44,9 +44,11 @@
 
 ### Contact 📱
 ---
-<a href="https://www.facebook.com/dan.isreal.923/">
-  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white"/>
+[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dan.isreal.923/)
+<a href="https://www.linkedin.com/in/thanathip-suwannakhot-0787bb210/">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 
 <!--
 **danyouknowme/danyouknowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
