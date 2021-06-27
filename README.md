@@ -34,7 +34,7 @@ const Dan = {
 
 <p>&nbsp;</p>
 
-<p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a></p>
+<p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a>.</p>
 
 <!-- 
 ### Learning 📚
