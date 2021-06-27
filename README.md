@@ -68,6 +68,7 @@ const Dan = {
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5fiD4zpJjL7ipiFIiits5S)
  -->
 
+<p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a></p>
 
 <!--
 **danyouknowme/danyouknowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
