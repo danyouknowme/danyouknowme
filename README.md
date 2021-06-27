@@ -1,14 +1,15 @@
-## Hi everybody 👋
-- Thanathip Suwannakhot. I'm currently studying in Bachelor's degree of Software  Engineering at Kasetsart University 🧑🏼‍💻
+## Hi Everybody 👋
 ```typescript
-const me = {
-  name: "Dan",
-  education : {
-    PTK59: Science-Math,
-    KU80: Software and Knowledge Engineer
+const Dan = {
+  fullName: "Thanathip Suwannakhot",
+  age: 19,
+  interest: [full-stack web development],
+  learning: {
+    tools: [Vim, Docker],
+    langueges: [Javascript, TypeScript],
+    framworks: [Node.js, React]
   }
-  age: 19
-}
+};
 ```
 ---
 
