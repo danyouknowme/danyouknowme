@@ -17,7 +17,7 @@ const Dan = {
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
 
-<table>
+<!-- <table>
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight" style="display: block">
@@ -26,7 +26,7 @@ const Dan = {
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight" style="display: block">
     </td>
   </tr>
-</table>
+</table> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight"> -->
