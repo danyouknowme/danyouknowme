@@ -1,4 +1,4 @@
-## Hi Everybody 👋
+<center>## Hi Everybody 👋</center>
 ```typescript
 const Dan = {
   fullName: "Thanathip Suwannakhot",
