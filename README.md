@@ -30,7 +30,9 @@ const Dan = {
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight"> -->
+---
 
+| <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight" style="display: block"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight" style="display: block">|
 
 <p>&nbsp;</p>
 <!-- 
