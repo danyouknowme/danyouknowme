@@ -7,7 +7,7 @@ const Dan = {
   learning: {
     tools: [Vim, Docker],
     langueges: [Javascript, TypeScript],
-    framworks: [Node.js, React]
+    frameworks: [Node.js, React]
   }
 };
 ```
