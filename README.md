@@ -1,7 +1,7 @@
 <h1 align="center">Hi Everybody 👋</h1>
 
 
-```typescript
+```javascript
 const Dan = {
   fullName: "Thanathip Suwannakhot",
   age: 19,
