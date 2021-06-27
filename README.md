@@ -1,7 +1,7 @@
 ## Hi there 👋
-
+```
 - Thanathip Suwannakhot. I'm currently studying in Bachelor's degree of Software  Engineering at Kasetsart University 🧑🏼‍💻
-
+```
 ---
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)
