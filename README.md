@@ -3,6 +3,10 @@
 ```typescript
 const me = {
   name: "Dan",
+  education : {
+    PTK59: Science-Math,
+    KU80: Software and Knowledge Engineer
+  }
   age: 19
 }
 ```
