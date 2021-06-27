@@ -1,5 +1,5 @@
 <h1 align="center">Hi Everybody 👋</h1>
-
+<p>&nbsp;</p>
 
 ```javascript
 const Dan = {
@@ -13,8 +13,6 @@ const Dan = {
   }
 };
 ```
-<p>&nbsp;</p>
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
 
 <!-- <table>
