@@ -13,11 +13,17 @@ const Dan = {
   }
 };
 ```
+---
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
-<img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
+<div style="clear: both; display: table">
+  <div style="float: left; width: 50%; padding: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
+  </div>
+  <div style="float: left; width: 50%; padding: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
+  </div>
+</div>
 
 <p>&nbsp;</p>
 <!-- 
