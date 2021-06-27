@@ -17,7 +17,7 @@ const Dan = {
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
 
 <p>&nbsp;</p>
-
+<!-- 
 ### Learning 📚
 ---
 #### Programming Languages
@@ -38,9 +38,9 @@ const Dan = {
 <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white"/>
 
-<!-- #### IDEs
+#### IDEs
 [![forthebadge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/> -->
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <p>&nbsp;</p>
 
@@ -49,7 +49,7 @@ const Dan = {
 [![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dan.isreal.923/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danthanathip/)
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanathip-suwannakhot-0787bb210/)
-<!-- [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5fiD4zpJjL7ipiFIiits5S)
+[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5fiD4zpJjL7ipiFIiits5S)
  -->
 
 
