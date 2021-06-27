@@ -5,7 +5,7 @@
 const Dan = {
   fullName: "Thanathip Suwannakhot",
   age: 19,
-  interest: [full-stack web development],
+  interest: ["front-end web development", "back-end web development"],
   learning: {
     tools: [Vim, Docker],
     langueges: [Javascript, TypeScript],
