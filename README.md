@@ -1,4 +1,6 @@
 <div style="text-align:center"><h1>## Hi Everybody 👋</h1></div>
+---
+
 ```typescript
 const Dan = {
   fullName: "Thanathip Suwannakhot",
