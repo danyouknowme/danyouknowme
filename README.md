@@ -17,8 +17,8 @@ const Dan = {
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
 
-<table>
-  <tr style="margin: 5px">
+<table style="cellspacing: 0">
+  <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
     </td>
