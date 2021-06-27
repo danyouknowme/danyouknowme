@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everybody 👋
 - Thanathip Suwannakhot. I'm currently studying in Bachelor's degree of Software  Engineering at Kasetsart University 🧑🏼‍💻
 ```typescript
 const me = {
