@@ -2,7 +2,7 @@
 <p>&nbsp;</p>
 
 ```javascript
-const Dan = {
+const Danny = {
   fullName: "Thanathip Suwannakhot",
   age: 19,
   interest: ["front-end web development", "back-end web development"],
