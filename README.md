@@ -8,7 +8,7 @@ const Danny = {
   interest: ["front-end web development", "back-end web development"],
   learning: {
     tools: [Vim, Docker],
-    langueges: [Javascript, TypeScript],
+    langueges: [NodeJS, TypeScript],
     frameworks: [Vue, React]
   }
 };
