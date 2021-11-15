@@ -1,4 +1,4 @@
-<h1 align="center">Hi Everybody 👋</h1>
+<h1 align="center">Hi there 👋</h1>
 <p>&nbsp;</p>
 
 ```javascript
@@ -35,7 +35,7 @@ const Danny = {
 
 <p>&nbsp;</p>
 
-<p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a>.</p>
+<!-- <p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a>.</p> -->
 
 <!-- 
 ### Learning 📚
