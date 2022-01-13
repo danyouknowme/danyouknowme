@@ -9,7 +9,7 @@ const Danny = {
   learning: {
     tools: [Vim, Docker],
     langueges: [NodeJS, TypeScript],
-    frameworks: [Vue, React]
+    frameworks: [Vue, Express]
   }
 };
 ```
