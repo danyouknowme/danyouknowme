@@ -8,8 +8,8 @@ const Danny = {
   interest: ["front-end web development", "back-end web development"],
   learning: {
     tools: [Vim, Docker],
-    langueges: [NodeJS, TypeScript],
-    frameworks: [Vue, Express]
+    langueges: [Nodejs, TypeScript],
+    frameworks: [Nextjs, Express]
   }
 };
 ```
