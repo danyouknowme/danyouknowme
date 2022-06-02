@@ -33,17 +33,13 @@ const Danny = {
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight"> -->
----
-<p>&nbsp;</p>
 
  <img src="https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyouknowme&layout=compact&theme=tokyonight">
 
-<p>&nbsp;</p>
-
 <!-- <p>Inspired Javascript code block by <a href="https://github.com/Thaiane">Thaiane Braga</a>.</p> -->
 
-<!-- 
-### Learning 📚
+
+<!-- ### Learning 📚
 ---
 #### Programming Languages
 [![forthebadge](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)]()
@@ -67,15 +63,13 @@ const Danny = {
 [![forthebadge](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)]()
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
-<p>&nbsp;</p>
+<p>&nbsp;</p> -->
 
-### Contact 📱
----
-[![facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/dan.isreal.923/)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danthanathip/)
+#### Contact 📱
+
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanathip-suwannakhot-0787bb210/)
-[![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/5fiD4zpJjL7ipiFIiits5S)
- -->
+
+
 
 
 <!--
