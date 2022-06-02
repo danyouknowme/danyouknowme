@@ -1,11 +1,15 @@
 <h1 align="center">Hi there 👋</h1>
 <p>&nbsp;</p>
 
+<p align="right">
+  <img src="https://media1.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif?cid=6c09b952oviwcz29xy021m82fiw5hv0ud1t76l0xo14ddxvc&rid=giphy.gif&ct=s" width="100" />
+</p>
+
 ```javascript
 const Danny = {
   fullName: "Thanathip Suwannakhot",
-  age: 19,
-  interest: ["front-end web development", "back-end web development"],
+  age: 20,
+  interest: "Full Stack Web Development",
   learning: {
     tools: [Vim, Docker],
     langueges: [Golang, TypeScript],
@@ -13,6 +17,7 @@ const Danny = {
   }
 };
 ```
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
 
 <!-- <table>
