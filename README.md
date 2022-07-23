@@ -17,6 +17,7 @@ const Danny = {
 };
 ```
 
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danyouknowme&show_icons=true&theme=tokyonight)</a> -->
 
 <!-- <table>
@@ -63,12 +64,15 @@ const Danny = {
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 <p>&nbsp;</p> -->
-
+<!--
 #### Contact 📱
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanathip-suwannakhot-0787bb210/)
-
-
+ -->
+ 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danyouknowme/danyouknowme/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 <!--
