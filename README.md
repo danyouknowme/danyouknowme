@@ -4,6 +4,10 @@
   <img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" width="300" />
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/danyouknowme/danyouknowme/output/snake.svg" alt="Snake animation" />
+</div>
+
 <!--
 **danyouknowme/danyouknowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
