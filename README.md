@@ -1,11 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
 <div align="center">
   <img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" width="300" />
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/danyouknowme/danyouknowme/output/snake.svg" alt="Snake animation" />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&username=danyouknowme" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&username=danyouknowme" height="150" alt="languages graph"  />
+</div>
+
+<div align="center">
+  <img src="https://github.com/danyouknowme/danyouknowme/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 <!--
