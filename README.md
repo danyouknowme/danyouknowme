@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+  <img src="https://adaickalavan.github.io/assets/images/gophercises_punching.jpg" width="300" />
+</div>
+
 <!--
 **danyouknowme/danyouknowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
